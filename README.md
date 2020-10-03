@@ -19,5 +19,5 @@ If you are a developer, [check out my blog](https://medium.com/@giriaakula).
 
 If you are a employer, take a look at these [projects](https://giriaakula.com/projects/).
 
-If you are from outer space, this is my [location](https://maps.app.goo.gl/zr7j9z5idhg9xwa4a) come and visit me.
+If you are from outer space, this is my [location](http://www.google.com/maps/place/13.6444978,79.7426135) come and visit me.
 
