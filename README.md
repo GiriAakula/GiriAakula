@@ -3,7 +3,7 @@
 ### You come all the way here to know about me.. Great!
 
 I'm [Giri](https://giriaakula.com).
-Currently working at [Alopa Soft](https://alopasoft.com/).
+Currently working at [Vidgyor](https://vidgyor.com/).
 
 Fan of Javascript.
 
